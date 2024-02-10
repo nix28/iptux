@@ -1,4 +1,4 @@
-# Russian translation for iptux
+# Ukrainian translation for iptux
 # Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
 # This file is distributed under the same license as the iptux package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
@@ -1262,22 +1262,22 @@ msgid "option parsing failed: %s\n"
 msgstr "помилка аналізу параметра: %s\n"
 
 #~ msgid "Close Chat"
-#~ msgstr "Закрыть чат"
+#~ msgstr "Закрыти чат"
 
 #~ msgid "Sound"
 #~ msgstr "Звук"
 
 #~ msgid "Activate the sound support"
-#~ msgstr "Включение поддержки звука"
+#~ msgstr "Увімкнення звуку"
 
 #~ msgid "Volume Control: "
-#~ msgstr "Регулятор громкости "
+#~ msgstr "Регулятор гучності "
 
 #~ msgid "Sound Event"
-#~ msgstr "Звуковые оповещения"
+#~ msgstr "Звукові оповіщення"
 
 #~ msgid "Test"
-#~ msgstr "Проверка"
+#~ msgstr "Перевірка"
 
 #~ msgid "Stop"
 #~ msgstr "Стоп"
@@ -1287,7 +1287,7 @@ msgstr "помилка аналізу параметра: %s\n"
 #~ msgstr "IPTux"
 
 #~ msgid "Please input an IP address (IPv4 only)!"
-#~ msgstr "Введите IP-адрес (только IPv4)!"
+#~ msgstr "Введіть IP-адресу (лише IPv4)!"
 
 #, fuzzy
 #~ msgid ""
@@ -1295,9 +1295,9 @@ msgstr "помилка аналізу параметра: %s\n"
 #~ "Failed to bind the TCP/UDP port(%d)!\n"
 #~ "%s"
 #~ msgstr ""
-#~ "Ошибка!!!\n"
-#~ "Не удалось создать новый сокет!\n"
+#~ "Помилка!!!\n"
+#~ "Не вдалось створити новый сокет!\n"
 #~ "%s"
 
 #~ msgid "More About Iptux"
-#~ msgstr "Узнать больше о IPTux"
+#~ msgstr "Більше про IPTux"
